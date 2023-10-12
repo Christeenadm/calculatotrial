@@ -1,0 +1,17 @@
+.container{
+    position: relative;
+    padding: 20px;
+    background-color: rgb(222, 224, 247);
+}
+.equal{
+    position: absolute;
+    top: 34.8%;
+    left: 69.2%;
+   
+   
+}
+#res{
+    position: relative;
+    left: 11%;
+    color: beige;
+}
